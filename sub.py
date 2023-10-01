@@ -1,5 +1,5 @@
-n = int(input('enter 1st num'))
-m = int(input('enter 2st num'))
+n = int(input('Enter 1st number : - '))
+m = int(input('Enter 2st number : - '))
 
 print(n,'-',m,'=',n-m)
 
